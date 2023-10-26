@@ -1,0 +1,1 @@
+This is simple app for my CI/CD study
